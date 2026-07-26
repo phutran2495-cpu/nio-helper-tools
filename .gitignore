@@ -28,3 +28,4 @@ docs/.DS_Store
 
 !scv-validation-visualizer/
 !scv-validation-visualizer/**
+.omx/
