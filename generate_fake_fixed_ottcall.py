@@ -9,7 +9,7 @@ Schema 15109 (ipdr.cib_fixed):
 
 Usage:
     python3 generate_fake_fixed_ottcall.py [--output-dir DIR] [--intervals N] [--records-per-interval N] [--start-time EPOCH]
-
+dd
 The generated files can be copied to a pocket host:
     scp ipdr_cib_fixed.log.* pocket-ath-munp1:/var/opt/nio/log/raw/
 """
